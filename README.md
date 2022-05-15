@@ -3,6 +3,8 @@
 
 Doc-Demo is a demo web application to demonstrate how to run a react frontend client within a spring boot backend.
 
+Live Demo: https://doc-demo-app.herokuapp.com/
+
 ## Installation
 
 Use maven to build and run the application on port 8080.
