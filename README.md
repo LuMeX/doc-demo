@@ -1,2 +1,17 @@
-# doc-demo
-react frontend client within spring boot backend
+# Doc-Demo
+
+
+Doc-Demo is a demo web application to demonstrate how to run a react frontend client within a spring boot backend.
+
+## Installation
+
+Use maven to build and run the application on port 8080.
+Maven will also build the npm enviroment.
+
+```bash
+mvn install
+mvn spring-boot:run
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
